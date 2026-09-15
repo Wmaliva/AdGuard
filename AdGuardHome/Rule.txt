@@ -20,9 +20,9 @@
 #Autodesk
 @@||dds.autodesk.com^
 @@||up.autodesk.com^
+@@||www.autodesk.com^
 ||access.clic.autodesk.com^
 ||ase.autodesk.com^
-||www.autodesk.com^
 ||autodesk.com^
 ||cur.autodesk.com^
 ||genuine-software.autodesk.com^
