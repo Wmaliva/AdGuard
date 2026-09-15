@@ -4,6 +4,9 @@
 ! Updated: 2026-09
 ! Total: //
 
+#Activated
+@@||get.activated.win^
+#
 #Adobe
 @@||trials.adobe.com^
 @@||www.adobe.com^
@@ -56,10 +59,15 @@
 #Docker
 @@||docker.com^
 @@||docker.com.lan^
+@@||containerd.io^
+@@||daocloud.io^
+@@||docker.io^
 #
 #GitHub
 @@||github.com^
 @@||githubusercontent.com^
+@@||github.dev^
+@@||github.io^
 #
 #Google
 ||google.com^
@@ -76,6 +84,9 @@
 #mozilla
 #@@||cloudflare-dns.com^
 #@@||mozilla.org^
+#
+#OpenWrt
+@@||openwrt.org^
 #
 #PixPin
 ||pixpin.cn^
@@ -104,7 +115,6 @@
 ||in-addr.arpa^
 ||ipv4only.arpa^
 ||ip6.arpa^
-@@||get.activated.win^
 #
 #WeChat官网版自动更新
 ||dns.wechat.com^
