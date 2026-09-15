@@ -4,7 +4,7 @@
 ! Updated: 2026-09
 ! Total: //
 
-#Activated
+#Activated 激活Win
 @@||get.activated.win^
 #
 #Adobe
@@ -35,6 +35,9 @@
 #Baidu
 ||update.pan.baidu.com^
 ||duxiaoman.com^
+#
+#Bing
+@@||bing.com^
 #
 #Core
 ||mc.corel.com^
@@ -120,6 +123,20 @@
 ||dns.wechat.com^
 ||dldir1.qq.com^
 ||dldir1v6.qq.com^
+#
+#Xiaomi路由器屏蔽数据上传
+||api.miwifi.com^
+||api.io.mi.com^
+||data.miwifi.com^
+||log.miwifi.com^
+||log.upload.miwifi.com^
+||info.miwifi.com^
+||ot.api.miwifi.com^
+||support.miwifi.com^
+||status.miwifi.com^
+||upload.miwifi.com^
+||htp.miwifi.com^
+||broker.miwifi.com^
 #
 #常见 Crack 工具使用域名
 ||getproductkey.net^
