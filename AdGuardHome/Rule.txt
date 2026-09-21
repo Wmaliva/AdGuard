@@ -20,6 +20,7 @@
 #Autodesk
 @@||dds.autodesk.com^
 @@||up.autodesk.com^
+@@||up1.autodesk.com^
 @@||www.autodesk.com^
 ||access.clic.autodesk.com^
 ||ase.autodesk.com^
