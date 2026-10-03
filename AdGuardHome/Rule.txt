@@ -19,6 +19,7 @@
 #
 #Autodesk
 @@||dds.autodesk.com^
+@@||knowledge.autodesk.com^
 @@||up.autodesk.com^
 @@||up1.autodesk.com^
 @@||www.autodesk.com^
