@@ -126,6 +126,9 @@
 ||dldir1.qq.com^
 ||dldir1v6.qq.com^
 #
+#WPS
+@@||wps-cn-ep.wpscdn.cn^
+#
 #Xiaomi路由器屏蔽数据上传
 ||api.miwifi.com^
 ||api.io.mi.com^
