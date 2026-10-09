@@ -38,6 +38,9 @@
 ||update.pan.baidu.com^
 ||duxiaoman.com^
 #
+#Bitwarden
+||bitwarden.com^
+#
 #Bing
 @@||bing.com^
 #
@@ -77,6 +80,7 @@
 #Google
 ||google.com^
 ||o.pki.goog^
+||www.gstatic.com^
 #
 #Karing
 ||dot.karing.app^
