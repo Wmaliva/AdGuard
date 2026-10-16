@@ -127,8 +127,8 @@
 #
 #WeChat官网版自动更新
 ||dns.wechat.com^
-||dldir1.qq.com^
-||dldir1v6.qq.com^
+#||dldir1.qq.com^
+#||dldir1v6.qq.com^
 #
 #WPS
 @@||wps-cn-ep.wpscdn.cn^
